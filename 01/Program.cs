@@ -25,4 +25,3 @@ int GetNumber(int number)
     }
     return i;
 }
-

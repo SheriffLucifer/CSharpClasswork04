@@ -1,5 +1,4 @@
-﻿Console.Clear();
-GetRandomNum();
+﻿GetRandomNum();
 
 void GetRandomNum()
 {
